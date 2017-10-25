@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace Battleships
 {
-    class Program
+    class Panel
     {
-        static void Main(string[] args)
-        {
-
-
-        }
     }
 }
